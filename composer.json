@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joaquinbaena",
+            "email": "jbs.7310@gmail.com"
+        }
+    ],
+    "require": {}
+}
